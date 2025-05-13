@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akagail&label=Profile%20views&color=0eb4b1&style=flat" alt="akagail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akagail" alt="akagail" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yakeruuuu" target="blank"><img src="https://img.shields.io/twitter/follow/yakeruuuu?logo=twitter&style=for-the-badge" alt="yakeruuuu" /></a> </p>
-
 - 🔭 I’m currently working on [Our Capstone Project](secret)
 - 🌱 I’m currently learning **React Native, Django, APIs, and Data Analytics**
 - 📫 How to reach me **www.facebook.com/akasaka.8**
