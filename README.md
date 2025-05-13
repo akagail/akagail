@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Our Capstone Project](secret)
 - 🌱 I’m currently learning **React Native, Django, APIs, and Data Analytics**
 - 📫 How to reach me **www.facebook.com/akasaka.8**
-- 📄 Know about my experiences [idk, i'm coding for about 6 years now](idk, i'm coding for about 6 years now)
+- 📄 Know about my experiences (idk, i'm coding for about 6 years now)
 - ⚡ Fun fact **a jack of all trades (even outside coding)**
 
 <h3 align="left">Connect with me:</h3>
