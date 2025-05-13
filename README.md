@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, Django, APIs, and Data Analytics**
 
-- 📫 How to reach me **ivan.sinaon21@gmail.com**
+- 📫 How to reach me **www.facebook.com/akasaka.8**
 
 - 📄 Know about my experiences [idk, i'm coding for about 6 years now](idk, i'm coding for about 6 years now)
 
