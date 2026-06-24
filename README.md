@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akagail&label=Profile%20views&color=0eb4b1&style=flat" alt="akagail" /> </p>
 
-- 🔭 I’m currently working on [Our Capstone Project](secret)
+- 🔭 I’m currently working on Fiore-by-K-system and finding a job.
 - 🌱 I’m currently learning **React Native, Django, APIs, and Data Analytics**
 - 📫 How to reach me **www.facebook.com/akasaka.8**
 - 📄 Know about my experiences (idk, i'm coding for about 6 years now)
