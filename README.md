@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Gail</h1>
-<h3 align="left">A humble BSIT college student, trying to be a part of society.</h3>
+<h3 align="left">A humble BSIT graduate, trying to be a part of society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akagail&label=Profile%20views&color=0eb4b1&style=flat" alt="akagail" /> </p>
 
-- 🔭 I’m currently working on Fiore-by-K-system and finding a job.
+- 🔭 I’m currently working on finding a job.
 - 🌱 I’m currently learning **React Native, Django, APIs, and Data Analytics**
 - 📫 How to reach me **www.facebook.com/akasaka.8**
-- 📄 Know about my experiences (idk, i'm coding for about 6 years now)
+- 📄 Know about my experiences (idk, i'm coding for since high school (2018))
 - ⚡ Fun fact **a jack of all trades (even outside coding)**
 
 <h3 align="left">Connect with me:</h3>
