@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akagail&label=Profile%20views&color=0eb4b1&style=flat" alt="akagail" /> </p>
 
 - 🔭 I’m currently working on finding a job.
-- 🌱 I’m currently learning **React Native, Django, APIs, and Data Analytics**
+- 🌱 I’m currently learning **Next.JS, and APIs**
 - 📫 How to reach me **www.facebook.com/akasaka.8**
 - 📄 Know about my experiences (idk, i'm coding for since high school (2018))
 - ⚡ Fun fact **a jack of all trades (even outside coding)**
