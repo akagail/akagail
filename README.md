@@ -33,11 +33,16 @@ Reach me at: <a href="https://www.linkedin.com/in/gail-ivan-sinaon/">LinkedIn</a
 
 **Frontend**
 <br />
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend" />
 
 **Backend and data**
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb&theme=dark" alt="Backend and data" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,mysql,postgres&theme=dark" alt="Backend and data" />
+
+**Data analysis**
+<br />
+<img src="https://skillicons.dev/icons?i=pandas,matplotlib&theme=dark" alt="Pandas and Matplotlib" />
+<img src="https://img.shields.io/badge/seaborn-4C8CBF?style=for-the-badge" alt="Seaborn" height="28" />
 
 **Tools and infrastructure**
 <br />
