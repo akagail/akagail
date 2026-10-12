@@ -63,7 +63,6 @@ Reach me at: linkedin
   <img src="https://github-profile-trophy.vercel.app/?username=akagail&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
 </p>
 
-<img width="100%" height="20%" src="assets/dots-divider.svg" alt="" />
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5EC8B4,100:0F1B2D&section=footer&reversal=true" alt="" />
