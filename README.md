@@ -1,24 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=140&section=header&text=Hi%20👋,%20I'm%20Gail&fontColor=c0caf5&fontSize=42&fontAlignY=35&desc=BSIT%20graduate%20•%20building%20for%20the%20web&descAlignY=60&descAlign=50" />
+<!-- BENTO-CLAYMORPHISM PROFILE • Tokyo Night Clay -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C0CAF5&center=true&width=435&lines=Looking+for+work+%F0%9F%94%AD;Learning+Next.js+%2B+APIs;Coding+since+2018+%F0%9F%92%BB;Jack+of+all+trades+%E2%9A%A1" alt="typing" />
-</p>
+  <!-- HEADER -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=170&section=header&text=Hi%20👋,%20I'm%20Gail&fontColor=1a1b27&fontSize=44&fontAlignY=38&desc=BSIT%20graduate%20•%20building%20for%20the%20web&descAlignY=62&descAlign=50&stroke=1a1b27" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akagail&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" />
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=7AA2F7&center=true&width=435&lines=Looking+for+work+%F0%9F%94%AD;Learning+Next.js+%2B+APIs;Coding+since+2018+%F0%9F%92%BB;Jack+of+all+trades+%E2%9A%A1" alt="typing" />
+  </p>
 
-<!-- BENTO: ABOUT -->
-<table align="center">
-<tr>
-<td align="center">🔭<br/><b>Currently</b><br/>finding a job</td>
-<td align="center">🌱<br/><b>Learning</b><br/>Next.js + APIs</td>
-</tr>
-<tr>
-<td align="center">💻<br/><b>Experience</b><br/>coding since 2018</td>
-<td align="center">⚡<br/><b>Fun fact</b><br/>jack of all trades</td>
-</tr>
-</table>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=akagail&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" />
+  </p>
+
+  <!-- ROW 1 : HERO + SIDE -->
+  <table>
+    <tr>
+      <td width="62%" valign="top" bgcolor="#1a1b27"><b>Building for the web</b><br/>BSIT graduate • Next.js • APIs<br/><br/>🔭 Currently finding a job<br/>🌱 Learning Next.js + APIs</td>
+      <td width="38%" valign="top" bgcolor="#24283b">💻 coding since 2018<br/>⚡ jack of all trades<br/>🎯 web + data<br/>🚀 ship + learn</td>
+    </tr>
+  </table>
 
 <!-- BENTO: CONNECT -->
 <h3 align="center">Connect</h3>
