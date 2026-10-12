@@ -15,9 +15,12 @@
 ## About
 
 I build software and write about what I learn along the way.
+<br />
 Currently working on: a simple blockchain
+<br />
 Ask me about: web development/data analytics
-Reach me at: linkedin
+<br />
+Reach me at: <a href="https://www.linkedin.com/in/gail-ivan-sinaon/">LinkedIn</a>
 
 <img width="100%" height="20%" src="assets/dots-divider.svg" alt="" />
 
