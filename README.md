@@ -15,9 +15,11 @@
 ## About
 
 I build software and write about what I learn along the way.
-Currently working on: _add current project_
-Ask me about: _add topics_
-Reach me at: _add email or link_
+Currently working on: a simple blockchain
+Ask me about: web development/data analytics
+Reach me at: linkedin
+
+<img width="100%" height="50%" src="assets/dots-divider.svg" alt="" />
 
 <!-- TECH STACK -->
 ## Tech stack
