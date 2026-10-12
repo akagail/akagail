@@ -19,7 +19,7 @@ Currently working on: a simple blockchain
 Ask me about: web development/data analytics
 Reach me at: linkedin
 
-<img width="100%" height="50%" src="assets/dots-divider.svg" alt="" />
+<img width="100%" height="20%" src="assets/dots-divider.svg" alt="" />
 
 <!-- TECH STACK -->
 ## Tech stack
