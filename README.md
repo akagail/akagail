@@ -40,6 +40,8 @@ Reach me at: linkedin
 <br />
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" alt="Tools" />
 
+<img width="100%" height="20%" src="assets/dots-divider.svg" alt="" />
+
 <!-- STATS -->
 ## GitHub statistics
 
@@ -52,12 +54,16 @@ Reach me at: linkedin
   <img src="https://streak-stats.demolab.com?user=akagail&hide_border=true&background=0F1B2D&ring=5EC8B4&fire=5EC8B4&currStreakLabel=D9E2EC&sideLabels=D9E2EC&currStreakNum=D9E2EC&sideNums=D9E2EC&dates=8FA3B5" alt="Contribution streak" />
 </p>
 
+<img width="100%" height="20%" src="assets/dots-divider.svg" alt="" />
+
 <!-- TROPHIES -->
 ## Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akagail&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
 </p>
+
+<img width="100%" height="20%" src="assets/dots-divider.svg" alt="" />
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5EC8B4,100:0F1B2D&section=footer&reversal=true" alt="" />
