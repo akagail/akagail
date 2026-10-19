@@ -22,20 +22,20 @@ akagail, software developer: web development and data analytics
 │            :%@@@%::%@@@%:            │                                                           │
 │           :%@@@@%::%@@@@%:           │ ── TECH STACK ─────────────────────────────────────────── │
 │          :%@@@@%:  :%@@@@%:          │ Lang: ............... JavaScript, TypeScript, Python, PHP │
-│         :%@@@@%:    :%@@@@%:         │ Frontend: ................ HTML, CSS, React, Tailwind CSS │
-│        :%@@@@@@@@@@@@@@@@@@%:        │ Backend: .............. Node.js, Express, Laravel, Django │
-│       :%@@@@@@@@@@@@@@@@@@@@%:       │ Database: .................... MySQL, PostgreSQL, MongoDB │
-│      :%@@@@%:          :%@@@@%:      │ Tools: ...................................... Git, Docker │
+│         :%@@@@%:    :%@@@@%:         │ Frontend: ..................... HTML, React, Tailwind CSS │
+│        :%@@@@@@@@@@@@@@@@@@%:        │ Backend: ................................ Node.js, Django │
+│       :%@@@@@@@@@@@@@@@@@@@@%:       │ Database: ............................. MySQL, PostgreSQL │
+│      :%@@@@%:          :%@@@@%:      │ Tools: ....................................... Git, Figma │
 │     :%@@@@%:            :%@@@@%:     │                                                           │
 │     :%@@@%:              :%@@@%:     │                                                           │
 │ ── CURRENTLY BUILDING ────────────────────────────────────────────────────────────────────────── │
-│ ├── [PROJECT 1] ......................................................... [one-line description] │
-│ └── [PROJECT 2] ......................................................... [one-line description] │
+│ ├── updated-portfolio ........ an updated dynamic portfolio, and made to explore webP and webGL  │
+│ └── a-simple-blockchain ........ A simple blockchain built with python, used to learn blockchain │
 │ ── LINKS ─────────────────────────────────────────────────────────────────────────────────────── │
 │ Portfolio: ........................................................ <a href="https://portfolio-ni-gail.vercel.app">portfolio-ni-gail.vercel.app</a> │
 │ LinkedIn: ..................................................... <a href="https://linkedin.com/in/gail-ivan-sinaon">linkedin.com/in/gail-ivan-sinaon</a> │
 │ ── CONTACT ───────────────────────────────────────────────────────────────────────────────────── │
-│ Email: ............................................................................ [YOUR EMAIL] │
+│ Email: ................................................................... aka.gail621@gmail.com │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
 </pre>
 
@@ -56,5 +56,3 @@ akagail, software developer: web development and data analytics
 </tr>
 </table>
 </div>
-
-_Stats are rendered live by metrics.lecoq.io and may load slowly._
