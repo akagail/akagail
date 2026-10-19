@@ -15,19 +15,21 @@ akagail, software developer: web development and data analytics
                                                           \$$$$$$                                   
 
 ╭─[ akagail@github ~ ]─────────────────────────────────────────────────────────────────────────────╮
-│             :%@@@@@@%:               │                                                           │
+│                                      │                                                           │
 │          :%@@@@@@@@@@%:              │ ── PROFILE ────────────────────────────────────────────── │
-│        :%@@@@@@@@@@@@@@%:            │ Role: ................................ Software Developer │
-│       :%@@@@@@@@@@@@@@@@@@%:         │ Focus: .................. Web Development, Data Analytics │
-│       :%@@@@%:    :%@@@@@@%:         │                                                           │
-│       :%@@@@%:      :%@@@@%:         │ ── TECH STACK ─────────────────────────────────────────── │
+│        :%@@@@@@@ @@@@@@%:            │ Role: ................................ Software Developer │
+│       :%@@@@@@@   @@@@@@%:           │ Focus: .................. Web Development, Data Analytics │
+│       :%@@@@%:    :%@@@@%:           │                                                           │
+│       :%@@@@%:     :%@@%:            │ ── TECH STACK ─────────────────────────────────────────── │
 │       :%@@@@%:                       │ Lang: ............... JavaScript, TypeScript, Python, PHP │
 │       :%@@@@%:                       │ Frontend: ..................... HTML, React, Tailwind CSS │
-│       :%@@@@%:    :%@@@@@@%:         │ Backend: ................................ Node.js, Django │
-│       :%@@@@%:    :%@@@@@@%:         │ Database: ............................. MySQL, PostgreSQL │
-│       :%@@@@%:    :%@@@@@@%:         │ Tools: ....................................... Git, Figma │
-│         :%@@@@@@@@@@@@@@@@%:         │                                                           │
-│           :%@@@@@@@@@@@@%:           │                                                           │
+│       :%@@@@%: :%@@@@@@@%:           │ Backend: ................................ Node.js, Django │
+│       :%@@@@%:   :%@@@@@@%:          │ Database: ............................. MySQL, PostgreSQL │
+│       :%@@@@%:     :%@@@@%:          │ Tools: ....................................... Git, Figma │
+│        :%@@@@@    :%@@@@%:           │                                                           │
+│          :%@@@@@@@@@@@@%:            │                                                           │
+│            :%@@@@@@@%:               │                                                           │
+│                                      │                                                           │
 │ ── CURRENTLY BUILDING ────────────────────────────────────────────────────────────────────────── │
 │ ├── updated-portfolio ........ an updated dynamic portfolio, and made to explore webP and webGL  │
 │ └── a-simple-blockchain ........ A simple blockchain built with python, used to learn blockchain │
@@ -41,15 +43,15 @@ akagail, software developer: web development and data analytics
 
 <div align="center">
 <table>
-<tr>
+<!-- <tr>
 <td colspan="2" width="100%"><img src="https://ghchart.rshah.org/akagail" width="100%" alt="Contribution calendar: akagail's commit activity over the past year"></td>
+</tr> -->
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagail&layout=compact&hide=jupyter%20notebook&theme=github_dark" width="100%" alt="Languages used across akagail's public repositories, with Jupyter Notebook excluded"></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akagail&utcOffset=8&theme=github_dark" width="100%" alt="Coding habits for akagail: most productive time of day"></td>
 </tr>
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagail&layout=compact&hide=jupyter%20notebook" width="100%" alt="Languages used across akagail's public repositories, with Jupyter Notebook excluded"></td>
-<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akagail&utcOffset=8" width="100%" alt="Coding habits for akagail: most productive time of day"></td>
-</tr>
-<tr>
-<td colspan="2" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=akagail&show_icons=true&include_all_commits=true" width="100%" alt="Activity totals for akagail: commits, pull requests, issues and stars"></td>
+<td colspan="2" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=akagail&show_icons=true&include_all_commits=true&theme=github_dark" width="100%" alt="Activity totals for akagail: commits, pull requests, issues and stars"></td>
 </tr>
 </table>
 </div>
