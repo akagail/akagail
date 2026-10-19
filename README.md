@@ -1,54 +1,60 @@
-<!-- ╭─[ akagail / profile ]─ terminal dashboard ──────────────────────────╮ -->
+akagail, software developer: web development and data analytics
 
-```text
-                 __                                                                        __        __ 
-                |  \                                                                      |  \      |  \
-  ______        | $$   __         ______                    ______          ______         \$$      | $$
- |      \       | $$  /  \       |      \                  /      \        |      \       |  \      | $$
-  \$$$$$$\      | $$_/  $$        \$$$$$$\                |  $$$$$$\        \$$$$$$\      | $$      | $$
- /      $$      | $$   $$        /      $$                | $$  | $$       /      $$      | $$      | $$
-|  $$$$$$$      | $$$$$$\       |  $$$$$$$       __       | $$__| $$      |  $$$$$$$      | $$      | $$
- \$$    $$      | $$  \$$\       \$$    $$      |  \       \$$    $$       \$$    $$      | $$      | $$
-  \$$$$$$$       \$$   \$$        \$$$$$$$       \$$       _\$$$$$$$        \$$$$$$$       \$$       \$$
-                                                          |  \__| $$                                    
-                                                           \$$    $$                                    
-                                                            \$$$$$$
-╭──────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│              :%@@@@%:                                                                                │
-│             :%@@@@@@%:             Role: ......................................... Software Developer│
-│            :%@@@@@@@@%:            Focus: ........................... Web Development, Data Analytics│
-│           :%@@@@@@@@@@%:           ── TECH STACK ────────────────────────────────────────────────────│
-│           :%@@@%::%@@@%:           Lang: .................. JavaScript, TypeScript, Python, Java, PHP│
-│          :%@@@@%::%@@@@%:          Frontend: ................... HTML, CSS, React, Tailwind CSS, Vite│
-│         :%@@@@%:  :%@@@@%:         Backend: ....................... Node.js, Express, Laravel, Django│
-│        :%@@@@%:    :%@@@@%:        Database: ............................. MySQL, PostgreSQL, MongoDB│
-│       :%@@@@@@@@@@@@@@@@@@%:       Tools: ................ Git, GitHub, Docker, Linux, VS Code, Figma│
-│      :%@@@@@@@@@@@@@@@@@@@@%:      ── LINKS ─────────────────────────────────────────────────────────│
-│     :%@@@@%:          :%@@@@%:     GitHub: ....................................... github.com/akagail│
-│    :%@@@@%:            :%@@@@%:    LinkedIn: ....................... linkedin.com/in/gail-ivan-sinaon│
-│    :%@@@%:              :%@@@%:                                                                      │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────╯
-```
+<pre>
+                __                                                                      __       __ 
+               |  \                                                                    |  \     |  \
+  ______       | $$   __         ______                   ______         ______         \$$     | $$
+ |      \      | $$  /  \       |      \                 /      \       |      \       |  \     | $$
+  \$$$$$$\     | $$_/  $$        \$$$$$$\               |  $$$$$$\       \$$$$$$\      | $$     | $$
+ /      $$     | $$   $$        /      $$               | $$  | $$      /      $$      | $$     | $$
+|  $$$$$$$     | $$$$$$\       |  $$$$$$$      __       | $$__| $$     |  $$$$$$$      | $$     | $$
+ \$$    $$     | $$  \$$\       \$$    $$     |  \       \$$    $$      \$$    $$      | $$     | $$
+  \$$$$$$$      \$$   \$$        \$$$$$$$      \$$       _\$$$$$$$       \$$$$$$$       \$$      \$$
+                                                        |  \__| $$                                  
+                                                         \$$    $$                                  
+                                                          \$$$$$$                                   
 
+╭─[ akagail@github ~ ]─────────────────────────────────────────────────────────────────────────────╮
+│               :%@@@@%:               │                                                           │
+│              :%@@@@@@%:              │ ── PROFILE ────────────────────────────────────────────── │
+│             :%@@@@@@@@%:             │ Role: ................................ Software Developer │
+│            :%@@@@@@@@@@%:            │ Focus: .................. Web Development, Data Analytics │
+│            :%@@@%::%@@@%:            │                                                           │
+│           :%@@@@%::%@@@@%:           │ ── TECH STACK ─────────────────────────────────────────── │
+│          :%@@@@%:  :%@@@@%:          │ Lang: ............... JavaScript, TypeScript, Python, PHP │
+│         :%@@@@%:    :%@@@@%:         │ Frontend: ................ HTML, CSS, React, Tailwind CSS │
+│        :%@@@@@@@@@@@@@@@@@@%:        │ Backend: .............. Node.js, Express, Laravel, Django │
+│       :%@@@@@@@@@@@@@@@@@@@@%:       │ Database: .................... MySQL, PostgreSQL, MongoDB │
+│      :%@@@@%:          :%@@@@%:      │ Tools: ...................................... Git, Docker │
+│     :%@@@@%:            :%@@@@%:     │                                                           │
+│     :%@@@%:              :%@@@%:     │                                                           │
+│ ── CURRENTLY BUILDING ────────────────────────────────────────────────────────────────────────── │
+│ ├── [PROJECT 1] ......................................................... [one-line description] │
+│ └── [PROJECT 2] ......................................................... [one-line description] │
+│ ── LINKS ─────────────────────────────────────────────────────────────────────────────────────── │
+│ Portfolio: ........................................................ <a href="https://portfolio-ni-gail.vercel.app">portfolio-ni-gail.vercel.app</a> │
+│ LinkedIn: ..................................................... <a href="https://linkedin.com/in/gail-ivan-sinaon">linkedin.com/in/gail-ivan-sinaon</a> │
+│ ── CONTACT ───────────────────────────────────────────────────────────────────────────────────── │
+│ Email: ............................................................................ [YOUR EMAIL] │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
+</pre>
+
+<div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
-<img width="467" src="https://github-readme-stats.vercel.app/api?username=akagail&show_icons=true&hide_border=false&bg_color=0B0F15&border_color=293241&title_color=78A9FF&icon_color=5EC8B4&text_color=D9E2EC" alt="akagail's stats card: total stars earned, total commits, pull requests, issues, contributed-to count, and a rank badge" />
-</td>
-<td align="center" width="50%">
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagail&layout=compact&hide_border=false&bg_color=0B0F15&border_color=293241&title_color=78A9FF&text_color=D9E2EC&langs_count=6" alt="Most used languages across akagail's public repositories, with percentages" />
-</td>
+<td colspan="2" width="100%"><img src="https://metrics.lecoq.io/akagail?base=0&config.display=large&config.timezone=Asia%2FManila&plugin.isocalendar=1&plugin.isocalendar.duration=full-year" width="100%" alt="Contribution calendar: akagail's commit activity over the past full year"></td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<img width="495" src="https://streak-stats.demolab.com?user=akagail&hide_border=false&border=293241&background=0B0F15&ring=78A9FF&fire=5EC8B4&currStreakLabel=78A9FF&currStreakNum=D9E2EC&sideLabels=8B9BB0&sideNums=D9E2EC&dates=8B9BB0" alt="akagail's current streak, longest streak and total contributions" />
-</td>
-<td align="center" width="50%">
-<img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akagail&theme=nord_dark&utcOffset=8" alt="Commits grouped by hour of the day for akagail, in local time UTC+8" />
-</td>
+<td rowspan="2" width="50%"><img src="https://metrics.lecoq.io/akagail?base=0&config.timezone=Asia%2FManila&plugin.languages=1&plugin.languages.ignored=jupyter%20notebook" width="100%" alt="Languages used across akagail's public repositories, with Jupyter Notebook excluded"></td>
+<td width="50%"><img src="https://metrics.lecoq.io/akagail?base=0&config.timezone=Asia%2FManila&plugin.habits=1&plugin.habits.facts=1" width="100%" alt="Coding habits for akagail: most active time of day, day of the week and other patterns"></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://metrics.lecoq.io/akagail?base=0&config.timezone=Asia%2FManila&plugin.topics=1" width="100%" alt="Topics akagail has starred on GitHub, sized by how often each appears"></td>
+</tr>
+<tr>
+<td colspan="2" width="100%"><img src="https://metrics.lecoq.io/akagail?base=activity,repositories&config.display=large&config.timezone=Asia%2FManila" width="100%" alt="Activity totals for akagail: commits, pull requests opened and reviewed, issues and stargazers"></td>
 </tr>
 </table>
+</div>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/5EC8B4/akagail" alt="Calendar heatmap of akagail's public contributions over the past year" />
-</p>
+_Stats are rendered live by metrics.lecoq.io and may load slowly._
