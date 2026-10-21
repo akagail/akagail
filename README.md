@@ -1,5 +1,3 @@
-akagail, software developer: web development and data analytics
-
 <pre>
                 __                                                                      __       __ 
                |  \                                                                    |  \     |  \
@@ -41,11 +39,8 @@ akagail, software developer: web development and data analytics
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
 </pre>
 
-<div align="center">
+<div>
 <table>
-<!-- <tr>
-<td colspan="2" width="100%"><img src="https://ghchart.rshah.org/akagail" width="100%" alt="Contribution calendar: akagail's commit activity over the past year"></td>
-</tr> -->
 <tr>
 <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagail&layout=compact&hide=jupyter%20notebook&theme=github_dark" width="100%" alt="Languages used across akagail's public repositories, with Jupyter Notebook excluded"></td>
 <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akagail&utcOffset=8&theme=github_dark" width="100%" alt="Coding habits for akagail: most productive time of day"></td>
